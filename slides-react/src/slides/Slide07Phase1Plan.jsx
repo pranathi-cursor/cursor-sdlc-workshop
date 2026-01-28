@@ -30,8 +30,8 @@ const Slide07Phase1Plan = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Create a branch</strong> — make your own workspace so
-                changes don't affect others yet
+                <strong>Create a branch</strong> — make your own sandbox you can
+                safely play in until you're ready to share
               </div>
             </div>
             <div className="code-block">
@@ -92,8 +92,8 @@ const Slide07Phase1Plan = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Stage your changes</strong> — tell git which files to
-                save
+                <strong>Stage your changes</strong> — decide which files you
+                want to share with the team
               </div>
             </div>
             <div className="code-block">
@@ -104,7 +104,7 @@ const Slide07Phase1Plan = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Commit</strong> — save your changes with a message
+                <strong>Commit</strong> — create a description of what you built
               </div>
             </div>
             <div className="code-block">
@@ -115,7 +115,8 @@ const Slide07Phase1Plan = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Push</strong> — upload your branch to GitHub
+                <strong>Push</strong> — propose your sandbox be added to the
+                single-source-of-truth on GitHub
               </div>
             </div>
             <div className="code-block">
@@ -125,8 +126,8 @@ const Slide07Phase1Plan = () => (
           <div className="check-item">
             <div className="check-box"></div>
             <div>
-              <strong>Open a PR</strong> — request to merge your changes into
-              the main project
+              <strong>Open a PR</strong> — let teammates confirm they want your
+              changes to become officially part of the real project
             </div>
           </div>
         </div>

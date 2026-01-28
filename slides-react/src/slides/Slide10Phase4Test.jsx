@@ -12,15 +12,15 @@ const Slide10Phase4Test = () => (
         <div className="check-item">
           <div className="check-box"></div>
           <div>
-            <strong>Merge all approved PRs</strong> — combine everyone's work
-            into main
+            <strong>Merge all approved PRs</strong> — combine everyone's
+            sandboxes into the official project
           </div>
         </div>
         <div className="check-item has-code">
           <div className="check-header">
             <div className="check-box"></div>
             <div>
-              <strong>Switch to main</strong> — go back to the shared branch
+              <strong>Switch to main</strong> — go back to the official version
             </div>
           </div>
           <div className="code-block">
@@ -31,8 +31,8 @@ const Slide10Phase4Test = () => (
           <div className="check-header">
             <div className="check-box"></div>
             <div>
-              <strong>Pull latest</strong> — download the complete project with
-              all features
+              <strong>Pull latest</strong> — sync the complete project with all
+              features to your computer
             </div>
           </div>
           <div className="code-block">

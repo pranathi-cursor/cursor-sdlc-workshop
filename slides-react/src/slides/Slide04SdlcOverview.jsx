@@ -6,9 +6,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">01</div>
         <div className="sdlc-name">Plan</div>
         <div className="sdlc-desc">
-          Define requirements
+          Decide what
           <br />
-          Break down tasks
+          to build
         </div>
       </div>
       <div className="sdlc-arrow">→</div>
@@ -16,9 +16,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">02</div>
         <div className="sdlc-name">Design</div>
         <div className="sdlc-desc">
-          Architecture
+          Sketch out
           <br />
-          API design
+          how it works
         </div>
       </div>
       <div className="sdlc-arrow">→</div>
@@ -26,9 +26,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">03</div>
         <div className="sdlc-name">Develop</div>
         <div className="sdlc-desc">
-          Write code
+          Write the
           <br />
-          Implement features
+          actual code
         </div>
       </div>
       <div className="sdlc-arrow">→</div>
@@ -36,9 +36,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">04</div>
         <div className="sdlc-name">Test</div>
         <div className="sdlc-desc">
-          Validate
+          Make sure
           <br />
-          Find bugs
+          it works
         </div>
       </div>
       <div className="sdlc-arrow">→</div>
@@ -46,9 +46,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">05</div>
         <div className="sdlc-name">Review</div>
         <div className="sdlc-desc">
-          Code review
+          Get feedback
           <br />
-          Quality checks
+          from teammates
         </div>
       </div>
       <div className="sdlc-arrow">→</div>
@@ -56,9 +56,9 @@ const Slide04SdlcOverview = () => (
         <div className="sdlc-icon">06</div>
         <div className="sdlc-name">Deploy</div>
         <div className="sdlc-desc">
-          Ship to
+          Ship it to
           <br />
-          production
+          real users
         </div>
       </div>
     </div>

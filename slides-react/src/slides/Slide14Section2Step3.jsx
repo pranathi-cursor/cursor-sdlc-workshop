@@ -14,8 +14,8 @@ const Slide14Section2Step3 = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Create a branch</strong> — your workspace for this
-                feature
+                <strong>Create a branch</strong> — make your own sandbox you can
+                safely play in until you're ready to share
               </div>
             </div>
             <div className="code-block">
@@ -55,8 +55,8 @@ const Slide14Section2Step3 = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Stage your changes</strong> — tell git which files to
-                save
+                <strong>Stage your changes</strong> — decide which files you
+                want to share with the team
               </div>
             </div>
             <div className="code-block">
@@ -67,7 +67,7 @@ const Slide14Section2Step3 = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Commit</strong> — save your changes with a message
+                <strong>Commit</strong> — create a description of what you built
               </div>
             </div>
             <div className="code-block">
@@ -78,7 +78,8 @@ const Slide14Section2Step3 = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Push</strong> — upload your branch to GitHub
+                <strong>Push</strong> — propose your sandbox be added to the
+                single-source-of-truth on GitHub
               </div>
             </div>
             <div className="code-block">
@@ -88,7 +89,8 @@ const Slide14Section2Step3 = () => (
           <div className="check-item">
             <div className="check-box"></div>
             <div>
-              <strong>Open a PR</strong> — watch BugBot review your code
+              <strong>Open a PR</strong> — let teammates confirm they want your
+              changes, and watch BugBot review your code
             </div>
           </div>
         </div>

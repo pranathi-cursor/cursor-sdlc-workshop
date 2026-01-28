@@ -21,8 +21,8 @@ const Slide08Phase2Design = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Pull latest</strong> — download everyone's merged
-                changes
+                <strong>Pull latest</strong> — sync the official project to your
+                computer
               </div>
             </div>
             <div className="code-block">
@@ -33,7 +33,8 @@ const Slide08Phase2Design = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Create a branch</strong> — start fresh workspace for MVP
+                <strong>Create a branch</strong> — make your own sandbox you can
+                safely play in until you're ready to share
               </div>
             </div>
             <div className="code-block">
@@ -75,8 +76,8 @@ const Slide08Phase2Design = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Stage your changes</strong> — tell git which files to
-                save
+                <strong>Stage your changes</strong> — decide which files you
+                want to share with the team
               </div>
             </div>
             <div className="code-block">
@@ -87,7 +88,7 @@ const Slide08Phase2Design = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Commit</strong> — save your changes with a message
+                <strong>Commit</strong> — create a description of what you built
               </div>
             </div>
             <div className="code-block">
@@ -98,7 +99,8 @@ const Slide08Phase2Design = () => (
             <div className="check-header">
               <div className="check-box"></div>
               <div>
-                <strong>Push</strong> — upload your branch to GitHub
+                <strong>Push</strong> — propose your sandbox be added to the
+                single-source-of-truth on GitHub
               </div>
             </div>
             <div className="code-block">

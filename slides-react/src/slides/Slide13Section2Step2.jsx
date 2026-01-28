@@ -9,26 +9,30 @@ const Slide13Section2Step2 = () => (
       <div className="check-item">
         <div className="check-box"></div>
         <div>
-          <strong>Navigate to the other team's project</strong>
+          <strong>Navigate to the other team's folder</strong> — find their
+          project in the file tree
         </div>
       </div>
       <div className="check-item">
         <div className="check-box"></div>
         <div>
-          <strong>Use Ask Mode:</strong>{' '}
-          <em>"Explain this project. What does it do? How is it structured?"</em>
+          <strong>Use Ask Mode</strong> — ask Cursor questions without changing
+          any code:{' '}
+          <em>"Explain this project. What does it do?"</em>
         </div>
       </div>
       <div className="check-item">
         <div className="check-box"></div>
         <div>
-          <strong>Ask Cursor:</strong> <em>"How do I run this project locally?"</em>
+          <strong>Figure out how to run it</strong> — Ask:{' '}
+          <em>"How do I run this project locally?"</em>
         </div>
       </div>
       <div className="check-item">
         <div className="check-box"></div>
         <div>
-          <strong>Run it and verify it works</strong>
+          <strong>Actually run it</strong> — see it working in your browser or
+          as an extension
         </div>
       </div>
     </div>

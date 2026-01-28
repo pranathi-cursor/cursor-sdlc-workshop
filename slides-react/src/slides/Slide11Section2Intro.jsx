@@ -9,21 +9,22 @@ const Slide11Section2Intro = () => (
       <div className="key-point orange">
         <div className="key-point-icon">01</div>
         <div className="key-point-text">
-          You get <span className="highlight-orange">another team's project</span> — no
-          help from original authors
+          You get <span className="highlight-orange">another team's project</span>{' '}
+          — figure it out without asking them
         </div>
       </div>
       <div className="key-point orange">
         <div className="key-point-icon">02</div>
         <div className="key-point-text">
-          Enable <span className="highlight-orange">BugBot, Hooks, Skills, and Agents</span>
+          Enable <span className="highlight-orange">Cursor's power features</span>{' '}
+          — BugBot, Hooks, Skills, and Agents
         </div>
       </div>
       <div className="key-point orange">
         <div className="key-point-icon">03</div>
         <div className="key-point-text">
-          Use <span className="highlight-orange">Ask Mode</span> to understand unfamiliar
-          code
+          Use <span className="highlight-orange">Ask Mode</span> — ask Cursor
+          questions about the code without editing it
         </div>
       </div>
     </div>

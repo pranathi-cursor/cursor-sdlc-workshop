@@ -9,27 +9,27 @@ const Slide16Section3Rules = () => (
       <div className="key-point purple">
         <div className="key-point-icon">01</div>
         <div className="key-point-text">
-          <span className="highlight-purple">No PR over 500 lines</span> —
-          auto-rejected. Forces small, focused work.
+          <span className="highlight-purple">No PR over 500 lines</span> — keep
+          your changes small and focused (big ones get rejected)
         </div>
       </div>
       <div className="key-point purple">
         <div className="key-point-icon">02</div>
         <div className="key-point-text">
-          <span className="highlight-purple">Everyone must contribute 1+ merged PR</span>{' '}
-          — no passengers.
+          <span className="highlight-purple">Everyone must merge at least 1 PR</span>{' '}
+          — everyone contributes, no passengers
         </div>
       </div>
       <div className="key-point purple">
         <div className="key-point-icon">03</div>
         <div className="key-point-text">
-          <span className="highlight-purple">Live deploy to big screen</span> — watch
-          changes appear in real-time.
+          <span className="highlight-purple">Live deploy to big screen</span> —
+          watch your changes appear in real-time as PRs get merged
         </div>
       </div>
     </div>
     <div className="emphasis-box purple">
-      <strong>The Question:</strong> Will your team follow SDLC discipline... or
+      <strong>The Question:</strong> Will your team follow the process... or
       descend into chaos?
     </div>
   </>

@@ -10,7 +10,8 @@ const Slide05PreWork = () => (
         <div className="check-header">
           <div className="check-box"></div>
           <div>
-            <strong>Download & Install Cursor</strong> — cursor.com
+            <strong>Download & Install Cursor</strong> — cursor.com (it's like
+            VS Code but smarter)
           </div>
         </div>
       </div>
@@ -18,16 +19,19 @@ const Slide05PreWork = () => (
         <div className="check-header">
           <div className="check-box"></div>
           <div>
-            <strong>Install Cursor CLI</strong> — Cmd+Shift+P → "Install 'cursor'
-            command"
+            <strong>Install Cursor CLI</strong> — lets you open Cursor from the
+            command line
           </div>
+        </div>
+        <div className="code-block">
+          <code>Cmd+Shift+P → "Install 'cursor' command"</code>
         </div>
       </div>
       <div className="check-item has-code">
         <div className="check-header">
           <div className="check-box"></div>
           <div>
-            <strong>Open Terminal</strong>
+            <strong>Open Terminal</strong> — your command line interface
           </div>
         </div>
         <div className="code-block">
@@ -40,7 +44,8 @@ const Slide05PreWork = () => (
         <div className="check-header">
           <div className="check-box"></div>
           <div>
-            <strong>Install brew and git</strong> — Ask Cursor to help!
+            <strong>Install brew and git</strong> — brew installs tools, git
+            tracks your code history
           </div>
         </div>
         <div className="code-block">
@@ -51,7 +56,7 @@ const Slide05PreWork = () => (
         <div className="check-header">
           <div className="check-box"></div>
           <div>
-            <strong>Verify installations</strong>
+            <strong>Verify installations</strong> — make sure everything worked
           </div>
         </div>
         <div className="code-block">

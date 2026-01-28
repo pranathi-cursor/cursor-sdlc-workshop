@@ -10,35 +10,35 @@ const Slide12Section2Step1 = () => (
         <div className="check-item">
           <div className="check-box"></div>
           <div>
-            <strong>Turn on BugBot</strong> — Ask Cursor:{' '}
-            <em>"How do I enable BugBot for my repository?"</em>
+            <strong>Turn on BugBot</strong> — an AI that automatically reviews
+            your code for mistakes
           </div>
         </div>
         <div className="check-item">
           <div className="check-box"></div>
           <div>
-            <strong>Add a Hook</strong> — Ask:{' '}
-            <em>"Help me add a useful hook. What hooks are available?"</em>
+            <strong>Add a Hook</strong> — automatic actions that run when certain
+            things happen (like spell-check on save)
           </div>
         </div>
         <div className="check-item">
           <div className="check-box"></div>
           <div>
-            <strong>Add a Skill</strong> — Ask:{' '}
-            <em>"How do I add a skill to customize Cursor's behavior?"</em>
+            <strong>Add a Skill</strong> — teach Cursor special knowledge about
+            your project
           </div>
         </div>
         <div className="check-item">
           <div className="check-box"></div>
           <div>
-            <strong>Add an Agent</strong> — Ask:{' '}
-            <em>"Help me set up an agent for this codebase"</em>
+            <strong>Add an Agent</strong> — a helper that can do multi-step tasks
+            for you automatically
           </div>
         </div>
       </div>
       <div className="emphasis-box orange">
-        <strong>Tip:</strong> Use Cursor's docs and Ask Mode to figure these out.
-        That's the real skill!
+        <strong>Tip:</strong> Ask Cursor how to set these up — figuring it out is
+        part of the skill!
       </div>
     </div>
   </>
